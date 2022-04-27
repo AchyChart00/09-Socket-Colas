@@ -1,0 +1,6 @@
+
+{
+    "ignore" : ["db/*.json"], 
+    "Comments" : "Se agrega este json para que nodemon no reinicie la app al guardar cambios en la DB"
+
+}
